@@ -1,0 +1,37 @@
+2026-07-01 09:05:04,662 | INFO | Appointment created: APPT010 for Test User
+2026-07-02 21:11:08,725 | INFO | Appointment created: APPT011 for string
+2026-07-02 21:12:54,295 | INFO | Appointment created: APPT012 for Mani
+2026-07-03 11:35:28,545 | INFO | Appointment updated: APPT012
+2026-07-03 11:38:34,032 | INFO | Appointment deleted: APPT012
+2026-07-03 21:27:53,236 | INFO | Appointment deleted: APPT010
+2026-07-03 21:40:15,488 | INFO | Appointment created: APPT013 for Mani
+2026-07-03 21:45:23,669 | INFO | Appointment created: APPT014 for Mani
+2026-07-03 21:46:32,601 | INFO | Appointment created: APPT015 for Ajay
+2026-07-03 21:54:26,046 | INFO | Appointment created: APPT016 for Mani
+2026-07-03 21:58:47,303 | INFO | Appointment created: APPT017 for Mani
+2026-07-03 22:02:34,148 | INFO | Appointment created: APPT018 for Mani
+2026-07-04 08:39:29,436 | INFO | Appointment created: APPT019 for Mani
+2026-07-04 08:41:29,405 | INFO | Appointment created: APPT020 for Ajay
+2026-07-04 08:41:32,201 | INFO | Appointment created: APPT021 for Ajay
+2026-07-04 09:08:28,282 | INFO | Appointment created: APPT022 for Mani
+2026-07-04 09:13:11,057 | INFO | Appointment created: APPT023 for Mani
+2026-07-04 09:22:29,181 | INFO | Appointment created: APPT024 for Test Patient
+2026-07-04 17:07:40,044 | INFO | Appointment created: APPT025 for Reminder Test
+2026-07-04 21:46:00,895 | INFO | Appointment created: APPT026 for Rahul
+2026-07-15 20:10:33,858 | INFO | Appointment deleted: APPT027
+2026-07-15 20:37:27,396 | INFO | Appointment updated: APPT004
+2026-07-15 20:40:40,942 | INFO | Appointment updated: APPT004
+2026-07-15 22:07:57,098 | INFO | Appointment updated: APPT004
+2026-07-15 22:26:58,826 | INFO | Appointment deleted: APPT004
+2026-07-16 09:00:00,017 | INFO | SMS Reminder -> 6300530178 | Maniiii | dentist | 2026-07-17 | 01:00 PM
+2026-07-16 09:00:00,018 | INFO | SMS Reminder -> 6300530177 | Maniiii | neurologist | 2026-07-17 | 01:30 PM
+2026-07-16 09:01:41,424 | INFO | Appointment created: APPT040 for Maniiii
+2026-07-16 09:02:02,565 | INFO | Appointment deleted: APPT039
+2026-07-16 09:02:28,441 | INFO | Appointment deleted: APPT031
+2026-07-16 09:02:36,199 | INFO | Appointment deleted: APPT030
+2026-07-16 09:02:38,999 | INFO | Appointment deleted: APPT032
+2026-07-16 12:45:11,734 | INFO | Appointment deleted: APPT011
+2026-07-22 09:00:00,009 | INFO | SMS Reminder -> 9912991299 | jenny | dentist | 2026-07-23 | 01:00 PM
+2026-07-22 09:00:00,010 | INFO | SMS Reminder -> 9912991299 | jenny | dentist | 2026-07-23 | 02:30 PM
+2026-08-04 09:00:00,010 | INFO | SMS Reminder -> 9030586235 | Ajay | neurologist | 2026-08-05 | 11:00 AM
+2026-08-04 09:00:00,015 | INFO | SMS Reminder -> 9030586235 | Ajay | neurologist | 2026-08-05 | 11:00 AM

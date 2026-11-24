@@ -1,0 +1,38 @@
+[
+    {
+        "booking_id": "APPT001",
+        "doctor": "neurologist",
+        "date": "2026-06-23",
+        "time": "11:00 AM"
+    },
+    {
+        "booking_id": "APPT002",
+        "doctor": "dentist",
+        "date": "2026-06-24",
+        "time": "09:00 AM"
+    },
+    {
+        "booking_id": "APPT003",
+        "doctor": "neurologist",
+        "date": "2026-06-24",
+        "time": "10:00 AM"
+    },
+    {
+        "booking_id": "APPT004",
+        "doctor": "neurologist",
+        "date": "2026-06-24",
+        "time": "03:00 PM"
+    },
+    {
+        "booking_id": "APPT005",
+        "doctor": "neurologist",
+        "date": "2026-06-24",
+        "time": "10:00 AM"
+    },
+    {
+        "booking_id": "APPT007",
+        "doctor": "neurologist",
+        "date": "2026-07-04",
+        "time": "10 AM"
+    }
+]
